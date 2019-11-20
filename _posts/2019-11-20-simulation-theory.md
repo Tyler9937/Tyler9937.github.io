@@ -3,6 +3,9 @@ layout: post
 title: Simulation Theory Survey
 subtitle: Does personality and media/pop-culture have an effect on ST believers
 ---
+Check out the raw data here!
+https://github.com/Tyler9937/Simulation-Theory-Survey
+
 Simulation Theory. Who believes in it?
 Not too long ago an idea was proposed. An idea that aimed to fundamentally make us question our view of the universe, the relationships around us, and even ourselves. This idea was the argument of Simulation Theory(ST) first purposed by Nick Bostrom in his paper published in the late 90's. Without getting into the concept too much. Simulation Theory proposes, based on a few arguments, that we are almost certainly living within a simulation. But lets not worry ourselves about that. Rather, this blog aims to answer the question: does belief in Simulation Theory directly correlate to a person's personality? Such as their knowledge in the ST topic, their confidence levels, their happiness, and their sociability. Also, of the people who do believe in Simulation Theory what kinds of media or pop-cultural phenomenon might they be associated with to cause them to believe in such a radical idea?
 To try to answer these questions we first needed to collect some data. To accomplish this we created a short survey asking specific questions in an attempt to gain insights into people's personalities and their interactions with media/culture. Once completed the form was unleashed on to the popular site Reddit. Where it was free to be attacked, criticized, and by some admired as we slowly collected data. A sufficient amount of data was collected at about 200 responses. We then took our next step of our journey which consisted of data cleaning and exploration.
