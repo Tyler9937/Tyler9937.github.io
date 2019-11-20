@@ -3,8 +3,7 @@ layout: post
 title: Simulation Theory Survey
 subtitle: Does personality and media/pop-culture have an effect on ST believers
 ---
-Check out the raw data here!
-[I'm an inline-style link](https://github.com/Tyler9937/Simulation-Theory-Survey)
+Check out the raw data [here](https://github.com/Tyler9937/Simulation-Theory-Survey)!
 
 
 Simulation Theory. Who believes in it?
