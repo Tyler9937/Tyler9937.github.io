@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Tyler Russin Portfolio
+title: Tyler Russin's Portfolio
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A virtual place where I post all my virtual projects that show how virtually awsome I am!
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -57,7 +57,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Tyler Russin
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -65,10 +65,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
+  email: "tylerrussin2@gmail.com"
+  github: tyler9937
   reddit: Mr_Radiation
+  youtube: user/Tyler Russin
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
