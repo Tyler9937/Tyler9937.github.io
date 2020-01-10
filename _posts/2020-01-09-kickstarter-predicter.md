@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kickstarter Predicter
+title: Kickstarter Predictor
 subtitle: Using Predictive Models to Aid in Kickstarter Campaigns
 ---
 A short summery...
